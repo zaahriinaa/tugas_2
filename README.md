@@ -1,2 +1,2 @@
 # tugas_2
-tugas pertemuan 2 semester 2
+pemrograman web pert 2 smt 2
